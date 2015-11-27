@@ -1,0 +1,43 @@
+{
+  "name": "ngtypescript",
+  "version": "1.0.0",
+  "description": "Angular & Typescript simple starter",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server -d --progress --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpoltorak/ng-typescript-scaffold.git"
+  },
+  "keywords": [
+    "javascript",
+    "angular",
+    "typescript",
+    "scaffolding",
+    "starter"
+  ],
+  "author": "Remek Poltorak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rpoltorak/ng-typescript-scaffold/issues"
+  },
+  "homepage": "https://github.com/rpoltorak/ng-typescript-scaffold#readme",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "ui-router": "^0.2.15"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.0",
+    "file-loader": "^0.8.5",
+    "node-sass": "^3.4.2",
+    "sass-loader": "^3.1.2",
+    "style-loader": "^0.13.0",
+    "ts-loader": "^0.7.2",
+    "tslint": "^3.0.0",
+    "tslint-loader": "^2.1.0",
+    "typescript": "^1.6.2",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.9"
+  }
+}
