@@ -1,4 +1,4 @@
-# ng-typescript
+# ng-ts-starter
 Simple Angular &amp; Typescript starter
 
 Quick start:
