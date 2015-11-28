@@ -1,4 +1,4 @@
-import {Item, IItem} from './item';
+import {Item, IItem} from './Item';
 
 export interface IItemService {
 	getItems(): IItem[];

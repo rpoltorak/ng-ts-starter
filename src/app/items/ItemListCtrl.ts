@@ -1,5 +1,5 @@
-import {Item, IItem} from './item';
-import {ItemService} from './item.service';
+import {Item, IItem} from './Item';
+import {ItemService} from './ItemService';
 
 export interface IItemListModel {
 	title: string;
