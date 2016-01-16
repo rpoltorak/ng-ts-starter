@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rpoltorak/ng-typescript-scaffold.git"
+    "url": "git+https://github.com/rpoltorak/ng-ts-starter.git"
   },
   "keywords": [
     "javascript",
@@ -20,9 +20,9 @@
   "author": "Remek Poltorak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rpoltorak/ng-typescript-scaffold/issues"
+    "url": "https://github.com/rpoltorak/ng-ts-starter/issues"
   },
-  "homepage": "https://github.com/rpoltorak/ng-typescript-scaffold#readme",
+  "homepage": "https://github.com/rpoltorak/ng-ts-starter#readme",
   "dependencies": {
     "angular": "^1.4.8",
     "ui-router": "^0.2.15"
